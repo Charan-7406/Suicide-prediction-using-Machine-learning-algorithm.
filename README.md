@@ -14,8 +14,8 @@ The suicide dataset was fit into 3 different supervised classifiers. Compared to
 # This reprository contains:
  * 2 jupyter notebooks which have eda and ML models implimented.
  * documentation pdf file.
- * app.py which is the program which will be deployed on heroku.
- * The remaing files such as setup.sh, requirements.txt, Procfile are used when deploying the model on heroku. 
+ * master.csv which is the datafile.
+  
 
 
  
